@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-helloo
-hello 
-hello 
-hello 
-=======
-newtest
->>>>>>> testing1
+hi
